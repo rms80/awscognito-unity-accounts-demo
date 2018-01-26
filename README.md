@@ -4,7 +4,7 @@ This is a fully-functional Unity project (Unity 2017.3, using .NET 4.5) that dem
 
 See this tutorial for instructions on how to set up the AWS side, and things you need to do in the code to make it work: [http://www.gradientspace.com/tutorials/2018/1/25/using-aws-cognito-user-accounts-with-unity]
 
-The Sign-in code, and particularly the math parts, are borrowed from this article by Marcus Lachinger: [http://blog.mmlac.com/aws-cognito-srp-login-c-sharp-dot-net/]. 
+The Sign-in code, and particularly the math parts, are borrowed from this article by Marcus Lachinger: [http://blog.mmlac.com/aws-cognito-srp-login-c-sharp-dot-net/]. His github is here: [https://github.com/mmlac]
 
 Also using the Hkdf class from this gist: [https://gist.github.com/CodesInChaos/8710228]
 
