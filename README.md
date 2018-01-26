@@ -1,6 +1,6 @@
 # awscognito-unity-accounts-demo
 
-This is a fully-functional Unity project (Unity 2017.3, using .NET 4.5) that demonstrates sign-up and sign-in for AWS Cognito user accounts. This is not (Jan 2018) supported by the official AWS SDK release. I have rebuilt the SDK, DLLs are included. 
+This is a fully-functional Unity project (Unity 2017.3, using .NET 4.5) that demonstrates sign-up and sign-in for AWS Cognito user accounts. This is not (Jan 2018) supported by the official AWS SDK release. I have rebuilt the SDK using [this fork](https://github.com/rms80/aws-sdk-net), DLLs are included. 
 
 See this tutorial for instructions on how to set up the AWS side, and things you need to do in the code to make it work: http://www.gradientspace.com/tutorials/2018/1/25/using-aws-cognito-user-accounts-with-unity
 
